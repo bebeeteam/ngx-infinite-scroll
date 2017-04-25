@@ -1,3 +1,6 @@
+## v 0.3.4-beBee
+* [cheey-picked] [FIX] - fixes #156 - running scroll logics outside of angular's zone
+
 ## v 0.3.3 (2017/03/01) 
 
 ### Updates
